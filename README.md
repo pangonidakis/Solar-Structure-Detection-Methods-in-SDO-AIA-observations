@@ -15,3 +15,11 @@ This repository contains:
 <p align="center">
   <img src="images/preprocessed_lvl0SDO.png" width="600">
 </p>
+
+<p align="center">
+  <img src="images/AR_mask_BoundingBox.png" width="600">
+</p>
+
+<p align="center">
+  <img src="images/CH_mask_BoundingBox.png" width="600">
+</p>
