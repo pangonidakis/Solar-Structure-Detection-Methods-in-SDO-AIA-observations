@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load FITS file
-fits_file = filename
+fits_file = "AIA20231211_085808_lev0_0131.fits" # provided in a zip file
 
 with fits.open(fits_file) as hdul:
     data = hdul[0].data
