@@ -6,3 +6,12 @@ This repository contains:
      a. Active region (AR) detection
      b. Coronal hole (CH) detection
   2. The necessary pre-processing pipeline for level-0 (raw data) SDO/AIA to run SCSS-Net, YOLOv8n and BCVO (as described in the paper)
+
+
+<p align="center">
+  <img src="images/poorly_preprocessed_lvl0SDO.png" width="600">
+</p>
+
+<p align="center">
+  <img src="images/preprocessed_lvl0SDO.png" width="600">
+</p>
