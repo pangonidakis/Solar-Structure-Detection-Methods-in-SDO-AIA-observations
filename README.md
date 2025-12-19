@@ -48,20 +48,6 @@ The **SCSS-Net** framework is developed and maintained externally and is publicl
 
 ---
 
-## Citation
-
-If you use this code in your work, please cite the associated paper:
-
-```bibtex
-@unpublished{gonidakis2025solar,
-  title   = {Comparing Solar Structure Detection Methods in SDO/AIA Observations and Their Application to Raw, Uncalibrated Data},
-  author  = {Gonidakis, Panagiotis and others},
-  journal = {Journal of Geophysical Research: Machine Learning and Computation},
-  year    = {2025},
-  note    = {submitted}
-}
-
-
 
 
 
@@ -114,4 +100,21 @@ The following examples illustrate the impact of the proposed pre-processing pipe
 </p>
 
 ---
+
+## Citation
+
+If you use this code in your work, please cite the associated paper:
+
+```bibtex
+@unpublished{gonidakis2025solar,
+  title   = {Comparing Solar Structure Detection Methods in SDO/AIA Observations and Their Application to Raw, Uncalibrated Data},
+  author  = {Gonidakis, Panagiotis and others},
+  journal = {Journal of Geophysical Research: Machine Learning and Computation},
+  year    = {2025},
+  note    = {submitted}
+}
+
+
+---
+
 
