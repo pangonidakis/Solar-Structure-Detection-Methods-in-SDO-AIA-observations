@@ -61,8 +61,7 @@ The following examples illustrate the impact of the proposed pre-processing pipe
 <p align="center">
   <em>
     <strong>Figure 1.</strong> Raw Level-0 SDO/AIA observation with minimal pre-processing. 
-    Instrumental artefacts and intensity inhomogeneities significantly degrade image quality, 
-    negatively affecting downstream detection and segmentation performance.
+    Instrumental artefacts and intensity inhomogeneities significantly degrade image quality.
   </em>
 </p>
 
@@ -83,8 +82,7 @@ The following examples illustrate the impact of the proposed pre-processing pipe
 <p align="center">
   <em>
     <strong>Figure 3.</strong> Active Region (AR) detection results obtained using the YOLOv8n framework. 
-    Predicted bounding boxes are overlaid on the pre-processed SDO/AIA image, illustrating accurate 
-    localization of active regions.
+    Predicted bounding boxes are overlaid on the pre-processed SDO/AIA image.
   </em>
 </p>
 
@@ -94,9 +92,7 @@ The following examples illustrate the impact of the proposed pre-processing pipe
 <p align="center">
   <em>
     <strong>Figure 4.</strong> Coronal Hole (CH) detection and segmentation results. 
-    The extracted CH mask and corresponding bounding boxes highlight large-scale coronal structures 
-    relevant for space-weather applications.
-  </em>
+   </em>
 </p>
 
 ---
